@@ -30,3 +30,9 @@
 - [float](https://focused-hawking-d09d86.netlify.app/responsive-5/float/)
 - [flex](https://focused-hawking-d09d86.netlify.app/responsive-5/flex/)
 - [repo](https://github.com/njsooo/web-page-layouts-1-5/tree/master/responsive-5)
+
+## Holy Grail
+
+- [float](https://nifty-austin-2fc0b0.netlify.app/float/)
+- [flex](https://nifty-austin-2fc0b0.netlify.app/flex/)
+- [repo](https://github.com/njsooo/web-page-layout-holy-grail)
