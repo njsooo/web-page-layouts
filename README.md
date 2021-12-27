@@ -36,3 +36,13 @@
 - [float](https://nifty-austin-2fc0b0.netlify.app/float/)
 - [flex](https://nifty-austin-2fc0b0.netlify.app/flex/)
 - [repo](https://github.com/njsooo/web-page-layout-holy-grail)
+
+## Masonry Multi-column
+
+- [demo](https://goofy-brattain-53a2d8.netlify.app/src/)
+- [repo](https://github.com/njsooo/web-page-layout-masonry-multi-column)
+
+## Masonry Grid
+
+- [demo](https://fervent-mahavira-782538.netlify.app/)
+- [repo](https://github.com/njsooo/web-page-layout-masonry-grid)
